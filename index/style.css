@@ -1,0 +1,36 @@
+
+#main {
+ max-width: 900px;
+ min-width: 700px;
+ margin: 10px auto;
+ padding: 20px;
+ border: 4px double #000000;
+ background-color: #ffffff;}
+ 
+ #pic {
+ width: 150px;
+ margin: 10px auto 25px auto;}
+ 
+ ul {
+ width: 550px;
+ padding: 15px;
+ margin: 0px auto;
+ border-top: 2px solid #000000;
+ border-bottom: 1px solid #000000;
+ text-align: center;}
+ 
+ li {
+ display: inline;
+ margin: 0px 3px;}
+ 
+ p {
+ text-align: center;
+ width: 600px; 
+ margin: 20px auto; 
+ font-weight: normal;}
+ 
+ a {
+ color: #000000;
+ text-transform: uppercase;
+ text-decoration: none;
+ padding: 6px 18px;}
